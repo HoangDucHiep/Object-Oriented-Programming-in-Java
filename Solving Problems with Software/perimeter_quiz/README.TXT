@@ -1,0 +1,1 @@
+hold ctrl and shift to select multiple files
